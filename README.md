@@ -1,4 +1,4 @@
-# 📊 Global Superstore Dashboard (Tableau Project)
+# <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"  title="Python-For backend"/></a> Global Superstore Dashboard (Tableau Project)
 
 This project showcases a **Tableau dashboard** built as part of classwork using the Global Superstore dataset. The dashboard offers dynamic insights into sales performance, profit margins, shipping costs, and order priorities using interactive visualizations.
 
@@ -41,10 +41,10 @@ To design a Tableau dashboard incorporating at least **four different types of v
 
 ## 📸 Dashboard Preview
 ![Screenshot 2025-03-17 015007](https://github.com/user-attachments/assets/ddb91068-ab79-4576-8432-21af06606903)
+<p>Global Superstore Dashboard</p>
 
-![Global Superstore Dashboard](dashboard-image.png)
-
-📄 **[Click to download PDF version](Global%20Dashboard.pdf)**
+📄 **[Click to download PDF version]([Global Dashboard.pdf](https://github.com/user-attachments/files/19765713/Global.Dashboard.pdf)
+)**
 
 ---
 
@@ -63,8 +63,6 @@ To design a Tableau dashboard incorporating at least **four different types of v
 - `dashboard-image.png` – Static image of the Tableau dashboard
 - `Global Dashboard.pdf` – Full exported PDF version of the dashboard
 
-> You can optionally include your `.twbx` Tableau file if you'd like others to explore or interact with your original workbook.
-
 ---
 
 ## 📚 Learnings
@@ -81,8 +79,3 @@ To design a Tableau dashboard incorporating at least **four different types of v
 - Global Superstore Dataset
 
 ---
-
-## 🚀 Next Steps
-
-- Upload the `.twbx` file for others to explore your dashboard interactively
-- Share your dashboard on **Tableau Public** and link it here!
